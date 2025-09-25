@@ -1,3 +1,11 @@
 # GenAI Setup
-This is to deploy simple GenAI application
-app link https://genai-setup-arow776kn8hpqjzefczyvn.streamlit.app/
+
+This is a basic GenAI aaplication that has been developed to understand how Generative AI model works.
+
+Modules such as google.generative ai & streamlit are being used.
+
+Google's Generative AI -- " gemini-2.5-flash-lite " is being used over here to create this model.
+
+It has been deployed using streamlit.
+
+app link: https://genai-setup-arow776kn8hpqjzefczyvn.streamlit.app/
